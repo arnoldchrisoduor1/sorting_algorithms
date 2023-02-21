@@ -1,1 +1,1 @@
-These are sorting algorithms
+These are sorting algorithms include big O
