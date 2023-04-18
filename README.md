@@ -1,1 +1,2 @@
-These are sorting algorithms include big O
+#Sorting Algorithms.
+These are sorting algorithms include big O.
